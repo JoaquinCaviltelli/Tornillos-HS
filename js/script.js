@@ -224,6 +224,11 @@ var Tornillos = {
     peso: 3.2,
     urlImg: "https://hiperseco.com/uploads/productos/full_size/15311.webp",
   },
+  cod15505: {
+    nombre: "Arandelas plasticas Eifs Blancas",
+    peso: 3.4,
+    urlImg: "https://http2.mlstatic.com/D_NQ_NP_815376-MLA50831028921_072022-O.webp",
+  },
   cod120267: {
     nombre: "Tornillo Hex P17 aguja 14x2.1/2",
     peso: 14.55,
