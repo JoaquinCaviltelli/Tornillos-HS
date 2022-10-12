@@ -179,6 +179,11 @@ var Tornillos = {
     peso: 4.75,
     urlImg: "https://hiperseco.com/uploads/productos/full_size/15445.webp",
   },
+  c120250: {
+    nombre: "Fix Madera 12x5",
+    peso: 14.55,
+    urlImg: "https://hiperseco.com/uploads/productos/full_size/15445.webp",
+  },
   cod4791: {
     nombre: "Tarugo 6mm",
     peso: 0.55,
